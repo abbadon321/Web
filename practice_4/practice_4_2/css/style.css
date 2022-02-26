@@ -13,8 +13,8 @@
   height: 200px;
   background-repeat: no-repeat;
   background-position: center;
-  position: absolute;
-  bottom: 50%;
+  position: fixed;
+  bottom: 5%;
  	left: 45%;
  	z-index: 10;
 }
