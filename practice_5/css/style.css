@@ -35,7 +35,15 @@ a {
 .image-container {
 	padding: 15px;
 	display: flex;
-    justify-content: center;    
+    justify-content: space-around;
+    align-items: center;
+}
+
+.icon-1, .icon-2 {
+	width: 250px;
+	height: 450px;
+    margin-top: 115px;
+    border: 6px solid black;
 }
 
 .mainText {
